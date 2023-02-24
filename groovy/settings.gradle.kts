@@ -1,2 +1,1 @@
-rootProject.name = "KayVeep"
-include("lib")
+rootProject.name = "KayVeep - Groovy"
